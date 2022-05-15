@@ -15,7 +15,7 @@ public class ArrayInvertido{
 	}
 	public static int[] invertirArray(int[] A){
 		int Ain[] = new int[A.length];
-		for(int i=A.length-1,int f=0;i>=0;i--,f++){
+		for(int i=A.length-1,f=0;i>=0;i--,f++){
 			Ain[f] = A[i];
 		}
 		return Ain;
