@@ -27,7 +27,7 @@
  <tbody>
   <tr><td>ASIGNATUA:</td><td colspan="5">Estructura de Datos y Algoritmos</td></tr>
   <tr><td>TÍTULO DE LA PRACTICA:</td><td colspan="5">Revisión de elementos de programación(Parte I)</td></tr>
-  <tr><td>NÚMERO DE PRÁCTICA:</td><td>Practica de Laboratorio 01</td><td>AÑO LECTIVO:</td><td>2022 A</td><td>NRO. SEMESTRE:</td><td>III</td></tr>
+  <tr><td>NÚMERO DE PRÁCTICA:</td><td>Practica de Laboratorio 02</td><td>AÑO LECTIVO:</td><td>2022 A</td><td>NRO. SEMESTRE:</td><td>III</td></tr>
   <tr><td>FECHA DE PRESENTACIÓN:</td><td>10/05/22</td><td>HORA DE PRESENTACIÓN:</td><td colspan="3">11:30 p.m.</td></tr>
   <tr><td>INTEGRANTES:</td><td colspan="3">-Diego Ivan Pacori Anccasi<br>-Edson Joel López Quispe<br>-Oliver Alessandro Mayta Nolasco<br>-Edwin Francisco Aguilar Tancayo<br>-Jordy Emanuel Ayma Cutipa</td><td>NOTA:</td><td>...</td></tr>
   <tr><td>DOCENTE:</td><td colspan="5">Richart Smith Escobedo Quispe - rescobedoq@unsa.edu.pe</td></tr>
@@ -39,8 +39,10 @@
  </theader>
  <tbody>
   <tr><td><strong>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS:</strong><br>
+  ¿Qué diferencia hay entre un List y un ArrayList en Java?<br>- Una lista es una interfaz y ArrayList es una clase de colección estándar.<br>- La interfaz de lista amplamplía el marco de la Colección, en cambio ArrayList extiende la clase AbstractList e implementa las interfaces de lista.<br>- La interfaz de lista crea una colección de elementos que se almacenan en una secuencia y se identifican o acceden mediante su número de índice. Por otro lado, ArrayList crea una matriz de objetos donde la matriz puede crecer dinámicamente cuando sea necesario.<br>- En una lista no se pueden crear instanciaciones, en ArrayList si se puede instanciar.
+  
   </td></tr>
-  <tr><td><strong>III. CONCLUSIONES:</strong><br>
+  <tr><td><strong>III. CONCLUSIONES:</strong><br>- El ArrayList surge del problema que no se puede aumentar o disminuir el tamaño de una matriz estática en java.<br>- La clase ArrayList amplía la interfaz de lista.
   </td></tr>
  </tbody>
 </table>
@@ -56,7 +58,7 @@
 
 <table>
  <theader>
-  <tr><td>RREFERENCIAS Y BIBLIOGRAFÍA</td><tr>
+  <tr><td>REFERENCIAS Y BIBLIOGRAFÍA</td><tr>
  </theader>
  <tbody>
   <tr><td>https://javadesdecero.es/poo/sobrecarga-de-metodos/ </td></tr>
