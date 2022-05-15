@@ -19,5 +19,15 @@ public class List {
 		}
 		size++;
 	}
-
+	//Recorre la lista uno a uno hasta llegar al index-1, que sería el que buscamos 
+	//Posteriormente retornamos su valor
+	public Object obtener(int index) {
+		int contador = 0;
+		Node temporal = root;
+		while(contador<index) {
+			temporal=temporal.obtenerSiguiente();
+			contador++;
+		}
+		return temporal.obtenerValor();
+	}	
 }
