@@ -14,6 +14,7 @@ class TrianguloRecursivo{
 	  for(int i=0; i<base; i++){
 	      System.out.print("*");
 	  }
+	  System.out.println();
       }
   }
 }
