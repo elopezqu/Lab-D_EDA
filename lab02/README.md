@@ -50,6 +50,7 @@ a<div align="center">
     </li>
     <li>
         <p>Triángulo recursivo</p>
+        <img src="./Imagenes/triangulo.png" alt="Problem3" style="width:50%; height:auto">
     </li>
     <li>
         <ol>
