@@ -42,7 +42,7 @@
   <ul>
     <li> 
         <p>invertir el Array</p>
-        <img src="./Imagenes/invertir.png" alt="Problem1" style="width:50%; height:auto">
+        <img src="./Imagenes/invertido.png" alt="Problem1" style="width:50%; height:auto">
     </li>
     <li>
         <p>Rotación a la Izquierda</p>
