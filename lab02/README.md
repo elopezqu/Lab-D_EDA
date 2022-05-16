@@ -55,7 +55,7 @@ a<div align="center">
         <ol>
             <li>Implemente una Lista usando POO con tipos genéricos siguiendo los estándares de Java</li>
             <li>Implemente una clase Node donde T es un tipo genérico, esta clase debe contener al menos dos propiedades</li>
-            <li>Implementar una clase List esta clase debe contener al menos esta propiedad</li>
+            <li>Implementar una clase List esta clase debe contener al menos dos propiedades</li>
         </ol>
         <ul>
             <li>
