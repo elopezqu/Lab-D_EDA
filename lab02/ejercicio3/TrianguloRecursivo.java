@@ -9,6 +9,7 @@ class TrianguloRecursivo{
 
       }else{
 
+	  trianguloRecursivo(base-1);
       }
   }
 }
