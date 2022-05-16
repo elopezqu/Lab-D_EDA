@@ -58,6 +58,15 @@
 
 <table>
  <theader>
+  <tr><td>Cuestionario</td><tr>
+ </theader>
+ <tbody>
+  *¿Qué diferencia hay entre un List y un ArrayList en Java?<br>- Una lista es una interfaz y ArrayList es una clase de colección estándar.<br>- La interfaz de lista amplamplía el marco de la Colección, en cambio ArrayList extiende la clase AbstractList e implementa las interfaces de lista.<br>- La interfaz de lista crea una colección de elementos que se almacenan en una secuencia y se identifican o acceden mediante su número de índice. Por otro lado, ArrayList crea una matriz de objetos donde la matriz puede crecer dinámicamente cuando sea necesario.<br>- En una lista no se pueden crear instanciaciones, en ArrayList si se puede instanciar.<br>*¿Qué beneficios y oportunidades ofrecen las clases genéricas en Java?<br>- Las clases genéricas porporcionan los medios para describir el concepto de pila(o cualquier otra clase).<br> De esta manera podemos crear instancias de objetos con tipos específicos y de la clase genérica y nos da la oportunidad de reutilizar el software.<br>- En tiempo de compilación, el compilador de Java asegura la seguridad de los tipos de nuestro código y utiliza las técnicas de borrado para permitir que nuestro código interactúe con la clase genérica.
+ </tbody>
+</table>
+    
+<table>
+ <theader>
   <tr><td>REFERENCIAS Y BIBLIOGRAFÍA</td><tr>
  </theader>
  <tbody>
