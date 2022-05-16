@@ -1,4 +1,4 @@
-<div align="center">
+a<div align="center">
 <table>
     <theader>
         <tr>
@@ -52,7 +52,25 @@
         <p>Triángulo recursivo</p>
     </li>
     <li>
-        <p>Lista</p>
+        <ol>
+            <li>Implemente una Lista usando POO con tipos genéricos siguiendo los estándares de Java<li>
+            <li>Implemente una clase Node donde T es un tipo genérico, esta clase debe contener al menos dos propiedades<li>
+            <li>Implementar una clase List esta clase debe contener al menos esta propiedad<li>
+        </ol>
+        <ul>
+            <li>
+                <p>Clase main</p>
+                <img src="./Imagenes/claseMain.png" alt="Problem1" style="width:50%; height:auto">
+            </li>
+            <li>
+                <p>Clase List</p>
+                <img src="./Imagenes/claseList.png" alt="Problem1" style="width:50%; height:auto">
+            </li>
+            <li>
+                <p>Clase Node</p>
+                <img src="./Imagenes/claseNode.png" alt="Problem1" style="width:50%; height:auto">
+            </li>
+        </ul>
     </li>
   </ul>
   </td></tr>
