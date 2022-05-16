@@ -86,7 +86,9 @@ a<div align="center">
 
 <table>
  <theader>
-  <tr><td>RETROALIMENTACIÓN GENERAL</td><tr>
+  <tr><td>RETROALIMENTACIÓN GENERAL<br>
+  Se nos presentaron tres ejemplos de estructura de datos, Array,Iterator y Listas, herramientas muy útiles,<br>cuando de almacenar y navegar entre datos se trata, esto se refuerza con los ejercicios propuestos,<br>para la resolución se utilizaron conocimientos en Arreglos, Recursión y el tema de  nuevo, Listas que requirió información adicional.
+  </td><tr>
  </theader>
  <tbody>
   <tr><td></td></tr>
@@ -100,7 +102,8 @@ a<div align="center">
   <tr><td>REFERENCIAS Y BIBLIOGRAFÍA</td><tr>
  </theader>
  <tbody>
-  <tr><td>https://javadesdecero.es/poo/sobrecarga-de-metodos/ </td></tr>
-  <tr><td>https://www.w3schools.com/html/default.asp </td></tr>
+  <tr><td>https://docs.oracle.com/javase/7/docs/api/java/util/List.html</td></tr>
+  <tr><td>https://docs.oracle.com/javase/tutorial/java/generics/types.html</td></tr>
+  <tr><td>https://www.w3schools.com/java/</td></tr>
  </tbody>
 </table>
