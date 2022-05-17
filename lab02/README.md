@@ -1,4 +1,4 @@
-a<div align="center">
+<div align="center">
 <table>
     <theader>
         <tr>
@@ -96,7 +96,6 @@ a<div align="center">
 </table>
 
 
-    
 <table>
  <theader>
   <tr><td>REFERENCIAS Y BIBLIOGRAFÍA</td><tr>
